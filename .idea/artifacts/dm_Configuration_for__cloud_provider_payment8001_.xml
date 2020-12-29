@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="dm.config" name="dm Configuration for 'cloud-provider-payment8001'">
+    <output-path>$PROJECT_DIR$/out/artifacts/dm_Configuration_for__cloud_provider_payment8001_</output-path>
+    <root id="root">
+      <element id="packaging-for-dm-config" module="cloud-provider-payment8001" />
+    </root>
+  </artifact>
+</component>

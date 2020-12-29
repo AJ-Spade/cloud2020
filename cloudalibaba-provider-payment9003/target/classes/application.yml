@@ -1,0 +1,16 @@
+server:
+  port: 9003
+
+spring:
+  application:
+    name: nacos-payment-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.56.128:1111
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
