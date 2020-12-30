@@ -22,5 +22,19 @@
 
 第十章-Config： https://blog.csdn.net/weixin_46185085/article/details/111912202
 
+第十一章-Bus： https://blog.csdn.net/weixin_46185085/article/details/111912668
+
+第十二章-stream： https://blog.csdn.net/weixin_46185085/article/details/111917934
+
+第十三章-sleuth： https://blog.csdn.net/weixin_46185085/article/details/111919160
+
+第十四章-springcloud alibaba简介： https://blog.csdn.net/weixin_46185085/article/details/111920022
+
+第十五章-Nacos服务注册和配置中心： https://blog.csdn.net/weixin_46185085/article/details/111920808
+
+第十六章-Sentinel： https://blog.csdn.net/weixin_46185085/article/details/111924760
+
+第十七章-seata： https://blog.csdn.net/weixin_46185085/article/details/111925847
+
 
 如有错误，欢迎指正。
